@@ -1,6 +1,7 @@
 ---
 title: Sites
 layout: page
+img: santiago.png
 ---
 
 # A global network

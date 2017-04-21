@@ -1,6 +1,7 @@
 ---
 title: Fab Academy
 layout: page
+img: fabacademy.jpg
 ---
 
 ### Learn to Turn Codes into Things   

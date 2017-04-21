@@ -9,7 +9,10 @@
 title: Academany
 email: info@academany.org
 description: > 
-  The Academy of (almost) anything
+  The Academy of (almost) anything, 
+  A global distributed campus for high level education, 
+  learn top skills from global leaders, master them locally 
+  in hundreds of locations all over the world
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,16 +34,15 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+analytics: 
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: academany
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+facebook: http://facebook.com/academany
+twitter: https://twitter.com/academany
+github: http://github.com/academany
 
 #facebook like box
 fb-app-id: 549480635219583
@@ -62,6 +64,8 @@ partners:
     url: http://fablabs.io
   - title: MIT Center for Bits and Atoms
     url: http://cba.mit.edu
+  - title: Fab13 Santiago de Chile
+    url: http://fab13.fabevent.org
     
 websites:
   - title: Fab Academy

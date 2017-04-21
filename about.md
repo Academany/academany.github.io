@@ -2,6 +2,7 @@
 layout: page
 title: The Academany
 permalink: /about/
+img: slider3.jpg
 ---
 
 ## the Academy of (almost) Anything

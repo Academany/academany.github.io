@@ -1,6 +1,7 @@
 ---
 title: Alumni and Success stories
 layout: page
+img: graduation.png
 ---
 
 ### Anna Aflalo  – FAB ACADEMY 2015

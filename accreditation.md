@@ -1,6 +1,7 @@
 ---
 title: Accreditation
 layout: page
+img: graduation_fabacademy-diplome.jpg
 ---
 
 Although the Academany does not offer accreditation of any of it's courses, students do receive a diploma stating the work that they have done at the successeful completion of any of the courses. Student webpages they use for documentation and review stay active after completion, and can be used as portfolios and examples of work done.
