@@ -4,7 +4,7 @@ title: Contact us
 permalink: /contact/
 ---
 
-<form class="form-horizontal" action=" " method="post"  id="contact_form">
+<form class="form-horizontal" action="https://formspree.io/jean-michel.molenaar@fabacademy.org" method="post"  id="contact_form">
 <fieldset>
 
 <!-- Text input-->
@@ -37,7 +37,7 @@ permalink: /contact/
     <div class="col-sm-12 inputGroupContainer">
     <div class="input-group">
         <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-  <input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
+  <input name="_replyto" placeholder="E-Mail Address" class="form-control"  type="text">
     </div>
   </div>
 </div>
