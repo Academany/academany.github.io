@@ -6,24 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+title: Academany
+email: info@academany.org
+description: > 
+  The Academy of (almost) anything
   
   
-  
-baseurl: "/cards" # the subpath of your site, e.g. /blog
-url: "http://webjeda.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://academany.org" # the base hostname & protocol for your site
 
 #sidebar
-default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+default-image: http://placehold.it/500x250 # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: webjeda
+built-by: academany
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: academany
+   link: 'http://academany.org'
 
 # Build settings
 markdown: kramdown
@@ -55,3 +54,19 @@ sass:
 # Ruby Gems
 gems: [jekyll-paginate, jekyll-seo-tag]
 
+
+partners:
+  - title: Fab Foundation
+    url: http://fabfoundation.org
+  - title: FabLabs.io
+    url: http://fablabs.io
+  - title: MIT Center for Bits and Atoms
+    url: http://cba.mit.edu
+    
+websites:
+  - title: Fab Academy
+    url: http://fabacademy.org
+  - title: Bio Academy
+    url: http://bio.academany.org
+  - title: Fabricademy
+    url: http://textile-academy.org/bootcamp

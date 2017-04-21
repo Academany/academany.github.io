@@ -1,17 +1,19 @@
+
 <div class="col-md-4 mt20">
         <div class="post-img">
            {% if page.img %}
             <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
             {% else %}
-            <img width="600" src="{{site.baseurl}}/images/{{site.default-image}}" alt="webjeda">
+            <img width="600" src="{{site.default-image}}" alt="academany">
             {% endif %}
         </div>
             
         
+          {% if site.related_posts.length > 0 %}
         <div class="mt10 recent">
-            <h2>Recent articles</h2>        
+            <h2>Related programs</h2>        
              <ul>
-                {% for post in site.related_posts limit:3 %}
+                {% for post in site.related_posts limit:5 %}
 
                       <li>
                       <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small>&nbsp;&nbsp;{{ post.date | date_to_string }}</small></p>
@@ -20,9 +22,48 @@
                 {% endfor %}
               </ul>
         </div>
+          {% endif %}
         
+          
         <div class="mt10">
-            <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a></blockquote></div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+            <h3>Partners</h3>   
+          </div>
+          <div class="panel-body">     
+             <ul>
+                {% for item in site.partners limit:5 %}
+
+                      <li>
+                      <a href="{{ item.url }}">{{ item.title }}</a>
+                      </li>
+
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          
+          <div class="panel panel-default">
+            <div class="panel-heading">
+            <h3>Program Websites</h3>   
+          </div>
+          <div class="panel-body">     
+             <ul>
+                {% for item in site.websites limit:5 %}
+
+                      <li>
+                      <a href="{{ item.url }}">{{ item.title }}</a>
+                      </li>
+
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+          
+          
+        <div class="mt10">
+            <div class="fb-page" data-href="https://www.facebook.com/academany/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/academany/" class="fb-xfbml-parse-ignore"><a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a></blockquote></div>
         </div>
 
 </div>
