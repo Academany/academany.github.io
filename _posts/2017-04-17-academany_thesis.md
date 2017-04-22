@@ -1,10 +1,10 @@
 ---
-title: Fab Academy Thesis
+title: Academany Thesis
 layout: page
-img: fabthesis.jpg
+img: academanythesis.jpg
 ---
 
-### The next step after Fab Academy
+### The next step after Fab or Bio Academy
 
 The Fab Academy Applied Research Program (FAB-ARP) will provide the means and infrastructure for the development of research projects inside the existing Fab Lab Network. Designed as for Academany Graduates, the program aims to offer students the possibility to continue their research interests initiated from the technical curriculum offered in the different classes along the year..
 
