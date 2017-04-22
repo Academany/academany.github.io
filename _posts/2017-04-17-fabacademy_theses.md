@@ -1,7 +1,7 @@
 ---
 title: Fab Academy Thesis
 layout: page
-img: fabacademy.jpg
+img: fabthesis.jpg
 ---
 
 ### The next step after Fab Academy
