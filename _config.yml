@@ -8,13 +8,13 @@
 # Site settings
 title: Academany
 email: info@academany.org
-description: > 
-  The Academy of (almost) anything, 
-  A global distributed campus for high level education, 
-  learn top skills from global leaders, master them locally 
+description: >
+  The Academy of (almost) anything,
+  A global distributed campus for high level education,
+  learn top skills from global leaders, master them locally
   in hundreds of locations all over the world
-  
-  
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://academany.org" # the base hostname & protocol for your site
 
@@ -34,7 +34,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: 
+analytics:
 
 # Comments
 disqus-shortname: academany
@@ -62,11 +62,13 @@ partners:
     url: http://fabfoundation.org
   - title: FabLabs.io
     url: http://fablabs.io
+  - title: Fab City
+    url: http://fab.city
   - title: MIT Center for Bits and Atoms
     url: http://cba.mit.edu
   - title: Fab13 Santiago de Chile
     url: http://fab13.fabevent.org
-    
+
 websites:
   - title: Fab Academy
     url: http://fabacademy.org
