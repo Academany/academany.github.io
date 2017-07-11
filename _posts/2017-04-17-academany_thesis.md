@@ -70,7 +70,7 @@ Labs need to make sure that:
 
 ### Schedule for the pilot year:
 - Defining nodes and committee: April - June 2017
-- Application launch (for students): 29th of June 2017
+- Application launch (for students): July 2017
 - Deadline for application submission: 31st of July 2017
 - Projects selection by committee and labs: early August (at FAB13)
 - Thesis pilot program starts: September 2017
