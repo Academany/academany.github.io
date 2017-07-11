@@ -8,7 +8,8 @@ img: academanythesis.jpg
 
 The Academany is launching the Diploma Thesis program to nurture the development of projects within the Fab Lab Network, and to increase the impact of Fab Labs in society. The Academany Thesis aims to offer a distributed development platform for innovators and researchers within the Fab Lab network, in collaboration with worldwide experts in different fields of knowledge and practice, who want to bring projects initiated in the different Academany programs to the next step. The Diploma Thesis is aimed to have multiple exits, it could be considered as an incubation (business), research (education) or development (social) process to increase the impact of projects from the Fab Lab community.
 
-### Why the Academany Diploma Thesis? 
+### Why to have the Academany Diploma Thesis? 
+In the following slideshow we collect some ideas about why to have a Diploma Thesis. Although, this is part of a larger ambition of the Fab Lab Network in order to be able to create a larger impact in society. The Diploma Thesis is the spark to start a distributed research program within the network, in collaboration with other institutions and companies. 
 <iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Short info:
