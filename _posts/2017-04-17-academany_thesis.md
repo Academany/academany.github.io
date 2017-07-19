@@ -10,7 +10,6 @@ The Academany is launching the Diploma Thesis program to nurture the development
 
 ### Why to have the Academany Diploma Thesis?
 In the following slideshow we collect some ideas about why to have a Diploma Thesis. Although, this is part of a larger ambition of the Fab Lab Network in order to be able to create a larger impact in society. The Diploma Thesis is the spark to start a distributed research program within the network, in collaboration with other institutions and companies.
-<iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Short info:
 - Target group is Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network and expand the possibilities of their final projects
@@ -20,6 +19,16 @@ In the following slideshow we collect some ideas about why to have a Diploma The
 - 14 Labs are willing to offer support to students for the pilot year
 - Academany will bring an external body of experts in other fields of knowledge complementary to the work proposed by researchers
 
+### Who should apply?
+This program is aimed to:
+- Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network
+- Bachelor’s or higher degree in any design or engineering degree with Digital Fabrication and/or programming experience
+- Professionals with ITC, Biology, Engineering, Design, among other application interests
+
+Apply here: <https://form.jotformeu.com/71433090640347>
+
+<iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### Some success cases emerging from Fab Academy final projects
 - Open Source Aquaponics System: <http://www.aquapioneers.io/>
 - Open Source Crowd-sensing Platform: <http://www.smartcitizen.me>
@@ -28,14 +37,6 @@ In the following slideshow we collect some ideas about why to have a Diploma The
 - Smart Guitar: <http://archive.fabacademy.org/archives/2016/fablabreykjavik/students/331/week19.html>
 - Low Cost Incubator: <http://fabacademy.org/archives/2015/eu/students/escario_mendez.alejandro/index.html>
 - A watch to show time in binary code: <http://fabacademy.org/archives/2015/eu/students/haldin.anders/presentation.html>
-
-### Who should apply?
-This program is aimed to:
-- Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network
-- Bachelor’s or higher degree in any design or engineering degree with Digital Fabrication and/or programming experience
-- Professionals with ITC, Biology, Engineering, Design, among other application interests
-
-Apply here: <https://form.jotformeu.com/71433090640347>
 
 ### Year zero: pilot in 14 Fab Labs:
 
