@@ -14,8 +14,8 @@ description: >
   learn top skills from global leaders, master them locally
   in hundreds of locations all over the world
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://academany.org" # the base hostname & protocol for your site
+baseurl: "/academany" # the subpath of your site, e.g. /blog
+url: "http://academany.pages.academany.org" # the base hostname & protocol for your site
 
 #sidebar
 default-image: http://placehold.it/500x250 # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
