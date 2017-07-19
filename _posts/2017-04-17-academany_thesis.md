@@ -8,9 +8,6 @@ img: thesisbanner.jpg
 
 The Academany is launching the Diploma Thesis program to nurture the development of projects within the Fab Lab Network, and to increase the impact of Fab Labs in society. The Academany Thesis aims to offer a distributed development platform for innovators and researchers within the Fab Lab network, in collaboration with worldwide experts in different fields of knowledge and practice, who want to bring projects initiated in the different Academany programs to the next step. The Diploma Thesis is aimed to have multiple exits, it could be considered as an incubation (business), research (education) or development (social) process to increase the impact of projects from the Fab Lab community.
 
-### Why to have the Academany Diploma Thesis?
-In the following slideshow we collect some ideas about why to have a Diploma Thesis. Although, this is part of a larger ambition of the Fab Lab Network in order to be able to create a larger impact in society. The Diploma Thesis is the spark to start a distributed research program within the network, in collaboration with other institutions and companies.
-
 ### Short info:
 - Target group is Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network and expand the possibilities of their final projects
 - Program duration: 9 months. Pilot year: September 2017 - June 2018
@@ -26,8 +23,6 @@ This program is aimed to:
 - Professionals with ITC, Biology, Engineering, Design, among other application interests
 
 Apply here: <https://form.jotformeu.com/71433090640347>
-
-<iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Some success cases emerging from Fab Academy final projects
 - Open Source Aquaponics System: <http://www.aquapioneers.io/>
@@ -69,6 +64,11 @@ Labs need to make sure that:
 - Have a local certified instructor who previously studied in any of the Academany programs
 - Have an advisory local group (university professors, community leaders, recognised practitioners)
 - Provide access to machines and working space at least 20hrs a week for researchers
+
+### Why to have the Academany Diploma Thesis?
+In the following slideshow we collect some ideas about why to have a Diploma Thesis. Although, this is part of a larger ambition of the Fab Lab Network in order to be able to create a larger impact in society. The Diploma Thesis is the spark to start a distributed research program within the network, in collaboration with other institutions and companies.
+
+<iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### What will be asked from students:
 - To have completed one of the programs of the Academany (Fab, Bio, Design, Machine, Textile), preferably two for better results
