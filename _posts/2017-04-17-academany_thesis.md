@@ -1,7 +1,7 @@
 ---
 title: Academany Diploma Thesis
 layout: page
-img: academanythesis.jpg
+img: thesisbanner.jpg
 ---
 
 ## The next step after Fab or Bio Academy
@@ -13,12 +13,21 @@ In the following slideshow we collect some ideas about why to have a Diploma The
 <iframe src="https://docs.google.com/presentation/d/1DvQ8EonYdBgbyxPcNLNGc2CfpoQk82OBOaJHxMJTY6U/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="500px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Short info:
-- Target group is Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network
+- Target group is Fab Academy and Bio Academy graduates willing to continue research and development within the Fab Lab Network and expand the possibilities of their final projects
 - Program duration: 9 months. Pilot year: September 2017 - June 2018
 - Program costs: 15.000 USD or EUR. Labs will facilitate access to the course in the pilot year. Students and labs are encouraged to work with potential sponsors to cover costs.
 - Cost structure: An initial proposal is to cover central costs with 1/3 of the overall costs, local labs get 2/3 to run the program locally.
 - 14 Labs are willing to offer support to students for the pilot year
 - Academany will bring an external body of experts in other fields of knowledge complementary to the work proposed by researchers
+
+### Some success cases emerging from Fab Academy final projects
+- Open Source Aquaponics System: <http://www.aquapioneers.io/>
+- Open Source Crowd-sensing Platform: <http://www.smartcitizen.me>
+- Environmental Robotics: <http://nero.noumena.io/>
+- Luggage sized CNC platform: <http://archive.fabacademy.org/archives/2017/fablabverket/students/100/web/projects/diy_cnc/index.html>
+- Smart Guitar: <http://archive.fabacademy.org/archives/2016/fablabreykjavik/students/331/week19.html>
+- Low Cost Incubator: <http://fabacademy.org/archives/2015/eu/students/escario_mendez.alejandro/index.html>
+- A watch to show time in binary code: <http://fabacademy.org/archives/2015/eu/students/haldin.anders/presentation.html>
 
 ### Who should apply?
 This program is aimed to:
