@@ -13,9 +13,6 @@ description: >
   A global distributed campus for high level education,
   learn top skills from global leaders, master them locally
   in hundreds of locations all over the world
-
-gems:
-  - jekyll-seo-tag
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://academany.org" # the base hostname & protocol for your site
