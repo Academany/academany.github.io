@@ -32,26 +32,4 @@ We are not waiting for things to change, we are changing them from the ground up
 
 Anastasia Pistofidou, Cecilia Raspanti, Fiore Basile
 
-### Bootcamp
-
-We are very excited to present our first bootcamp for professionals, instructors and students!
-
-40 Hours of Hands on, Lectures and Tutorials at Fab Lab Barcelona
-
-Textile Academy Bootcamp is an in depth intensive 5 days course meant for creatives, fashion and textile designers, both teachers and students and digital fabrication experts.
-
-During the course participants will explore new possibilities and alternatives to the current textile and clothing manufacturing systems guided by technologists, textile and fashion designers, computational experts and other specialists in the field from all over the world.
-
-When
-
-20 - 24 February 2017 Monday - Friday 12:00-20:00
-
-Where
-
-Institute for Advanced Architecture of Catalonia
-Fab Lab Barcelona
-Pujades 102, Poble Nou
-Barcelona 08005
-Spain
-
 For more information and to sign up, please visit the [Fabricademy website](http://textile-academy.org/bootcamp/)
