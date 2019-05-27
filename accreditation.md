@@ -16,7 +16,7 @@ Feel free to contact us via the contact page for more details, or help on gettin
 * Fab Lab Tecsup - 	Perú, Lima > Specialization Diploma
 * FabLab Madrid CEU	- Madrid, Spain > ECTS ^
 * Fab Lab Kamp-Lintfort	- Germany, Kamp-Lintfort > Integration with existing degree programs
-* Fab Lab Barcelona	- Barcelona > Integration with existing degree programs at IAAC > ECTS ^
+* Fab Lab Barcelona	- Barcelona > [Integration with existing degree programs at IAAC] (http://mdef.iaac.net) > ECTS ^
 * Fab Lab Oulu -	Finland, Oulu > ECTS ^  
 
  ^ (European Credit Transfer and Accumulation System)
