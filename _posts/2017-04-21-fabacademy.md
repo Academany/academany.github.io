@@ -3,17 +3,35 @@ title: Fab Academy
 layout: page
 img: fabacademy.jpg
 ---
+## Prototype your ideas into products
 
-### Learn to Turn Codes into Things   
+**Fab Academy is an intensive ﬁve-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi-disciplinary and hands-on learning experience that empowers students to learn-by-doing and inspires them to make stuff locally to become active participants in sustainable cities and communities.**
 
-Just as communications and computation went from analog to digital, resulting in PCs and the Internet, the digitization of fabrication is leading to personal fabricators that will allow anyone to make almost anything, anywhere. The development of digital fabrication is based on creating codes that don’t just describe things, they are things, much as proteins are coded in molecular biology. This research roadmap is ultimately aiming at a Star Trek-style replicator, but prototype versions of these capabilities are already available in field fab labs.
+At the Fab Academy, you will learn how to envision, prototype and document your ideas through many hours of hands-on experience with digital fabrication tools. We take a variety of code formats and turn them into physical objects. The Fab Diploma is the result of the sum of Fab Academy Certificates. Progress towards the diploma is evaluated by a student’s acquired skills rather than time or credits.
 
-At the Fab Academy, you will learn how to envision, prototype and document your ideas through many hours of hands-on experience with digital fabrication tools. We take a variety of code formats and turn them into physical objects.
+The Fab Academy is a fast paced, hands-on learning experience where students plan and execute a new project each week! Each individual documents their progress for each project, resulting in a personal portfolio of technical accomplishments
 
-The Fab Academy Diploma consists of a 5 month part-time student commitment, from January to June. The Fab Diploma is the result of the sum of Fab Academy Certificates. Progress towards the diploma is evaluated by a student’s acquired skills rather than time or credits.
+> Fab Academy is a Digital Fabrication programme directed by Neil Gershenfeld of MIT’s [Center For Bits and Atoms](http://fab.cba.mit.edu/) and based on MIT’s rapid prototyping course: [How to Make (Almost) Anything](http://fab.cba.mit.edu/classes/863.19/). 
 
-The Fab Academy is a fast paced, hands-on learning experience where students plan and execute a new project each week. Each individual documents their progress for each project, resulting in a personal portfolio of technical accomplishments.
 
-### Faculty
+## Basic Information
 
-Prof. Neil Gershenfeld is the Director of MIT's Center for Bits and Atoms. His unique laboratory is breaking down boundaries between the digital and physical worlds, from creating molecular quantum computers to virtuosic musical instruments. Technology from his lab has been seen and used in settings including New York's Museum of Modern Art and rural Indian villages, the White House and the World Economic Forum, inner-city community centers and automobile safety systems, Las Vegas shows and Sami herds. He is the author of numerous technical publications, patents, and books including Fab, When Things Start To Think, The Nature of Mathematical Modeling, and The Physics of Information Technology, and has been featured in media such as The New York Times, The Economist, NPR, CNN, and PBS. He is a Fellow of the American Physical Society, has been named one of Scientific American's 50 leaders in science and technology, as one of 40 Modern-Day Leonardos by the Museum of Science and Industry, one of Popular Mechanic's 25 Makers, has been selected as a CNN/Time/Fortune Principal Voice, and by Prospect/Foreign Policy as one of the top 100 public intellectuals. Dr. Gershenfeld has a BA in Physics with High Honors from Swarthmore College, a Ph.D. in Applied Physics from Cornell University, honorary doctorates from Swarthmore College, Strathclyde University and the University of Antwerp, was a Junior Fellow of the Harvard University Society of Fellows, and a member of the research staff at Bell Labs.
+**Course Length:** 5 months (Introduction to tools and Final Project Development), January to June, 30 hours a week of  dedication.
+
+**Program:** [here](http://fabacademy.org/about/program.html)
+
+**Tuition Fee:** [here](http://fabacademy.org/nodes/list2022.html)
+
+**Language:** English
+
+**Admission Requirements:**  No specific Academic Requirement needed. High level of English.
+
+**Application:** [here](http://fabacademy.org/apply/registration.html)
+
+
+## Coordination
+
+Luciana Asinari: coordination (at) fabacademy.org
+
+For more information and to sign up, please visit the [Fab Academy website](http://fabacademy.org/about/)
+
