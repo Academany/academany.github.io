@@ -5,6 +5,10 @@ img: fabricademy.jpg
 coming_soon: false
 ---
 
+The intersection between textiles, digital fabrication and biology
+
+___
+
 ## Fabricademy: a new Textile Academy
 
 **A transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market.**
@@ -19,6 +23,7 @@ Through the program, we are developing and implementing a new approach on how to
 
 > This program was created and is run by Anastasia Pistofidou, Cecilia Raspanti & Fiore Basile.
 
+___
 
 ## Basic Information
 
@@ -34,6 +39,7 @@ Through the program, we are developing and implementing a new approach on how to
 
 **Application:** [here](https://apply.textile-academy.org/)
 
+___
 
 ## Coordination 
 
