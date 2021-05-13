@@ -1,5 +1,5 @@
 ---
-title: GROW with FAB
+title: Diploma Thesis
 layout: page
 img: thesisbanner.jpg
 ---
