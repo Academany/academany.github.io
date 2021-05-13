@@ -5,6 +5,7 @@ img: fabx.jpg
 ---
 Fab Academy* (star) is a recollection of different versions of Fab Academy.
 
+___
 
 ## Fab Academy X
 
@@ -13,6 +14,7 @@ Fab Academy* (star) is a recollection of different versions of Fab Academy.
 Based on the HTMAA, this program is the local adaptation for a bigger audience, taught in local Language for a more extended period of time, with the same Fab Academy standards of Evaluation.
 
 > Fab Academy X is the TedX equivalent of Fab Academy
+
 
 
 ### Basic Information
@@ -30,6 +32,7 @@ Based on the HTMAA, this program is the local adaptation for a bigger audience, 
 
 Pilot Fab Academy X in Kerala, India (2018-2019)
 
+___
 
 ## Fab Academy Y
 
@@ -52,6 +55,7 @@ This is the opportunity for a life experienced person, with years of Digital Fab
 
 No precedents
 
+___
 
 ## Fab Academy Z
 
