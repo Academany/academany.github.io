@@ -3,7 +3,10 @@ title: Fab Academy
 layout: page
 img: fabacademy.jpg
 ---
+
 ## Prototype your ideas into products
+
+___
 
 **Fab Academy is an intensive ﬁve-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi-disciplinary and hands-on learning experience that empowers students to learn-by-doing and inspires them to make stuff locally to become active participants in sustainable cities and communities.**
 
@@ -12,6 +15,8 @@ At the Fab Academy, you will learn how to envision, prototype and document your 
 The Fab Academy is a fast paced, hands-on learning experience where students plan and execute a new project each week! Each individual documents their progress for each project, resulting in a personal portfolio of technical accomplishments
 
 > Fab Academy is a Digital Fabrication programme directed by Neil Gershenfeld of MIT’s [Center For Bits and Atoms](http://fab.cba.mit.edu/) and based on MIT’s rapid prototyping course: [How to Make (Almost) Anything](http://fab.cba.mit.edu/classes/863.19/). 
+
+___
 
 
 ## Basic Information
@@ -27,6 +32,8 @@ The Fab Academy is a fast paced, hands-on learning experience where students pla
 **Admission Requirements:**  No specific Academic Requirement needed. High level of English.
 
 **Application:** [here](http://fabacademy.org/apply/registration.html)
+
+___
 
 
 ## Coordination
