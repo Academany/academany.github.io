@@ -3,7 +3,7 @@ title: Fab Academy* (star)
 layout: page
 img: fabx.jpg
 ---
-Fab Academy* (star) is a recollection of different versions of Fab Academy.
+A recollection of different versions of Fab Academy.
 
 ___
 
