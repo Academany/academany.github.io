@@ -3,7 +3,11 @@ title: Fab Academy
 layout: page
 img: fabacademy.jpg
 ---
+
+
 Applications and implications of Digital Fabrication
+
+
 ___
 
 ## Prototype your ideas into products
