@@ -4,9 +4,10 @@ layout: page
 img: fabacademy.jpg
 ---
 
+___
+
 ## Prototype your ideas into products
 
-___
 
 **Fab Academy is an intensive ﬁve-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi-disciplinary and hands-on learning experience that empowers students to learn-by-doing and inspires them to make stuff locally to become active participants in sustainable cities and communities.**
 
