@@ -18,7 +18,7 @@ The purpose is to nurture the development of projects within the Fab Lab Network
 
 [The Bits and Atoms Pen](http://bitsandatomspen.com/) by Roberto Gallo
 
-Cocoa Fermenter by Joze Lazarte
+[Cocoa Fermenter](https://www.academia.edu/38267997/Dise%C3%B1o_de_fermentador_de_cacao_autom%C3%A1tico_basado_en_proceso_tradicional) by Joze Lazarte
 
 Ecotron by Esteban Gimenez
 
