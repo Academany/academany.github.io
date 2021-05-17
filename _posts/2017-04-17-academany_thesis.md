@@ -1,7 +1,7 @@
 ---
 title: Diploma Thesis
 layout: page
-img: thesisbanner.jpg
+img: thesis1.png
 ---
 
 ___
