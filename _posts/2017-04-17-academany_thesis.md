@@ -4,7 +4,6 @@ layout: page
 img: thesis1.png
 ---
 
-___
 
 ## Grow with Fab
 
