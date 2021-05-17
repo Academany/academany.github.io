@@ -14,7 +14,7 @@ The purpose is to nurture the development of projects within the Fab Lab Network
 
 ### 2019 Projects
 
-[Post Install Automation](http://cc.oulu.fi/~jpakarin/) by Jani Palarin 
+[Post Install Automation](https://jarifablaboulu.wixsite.com/modular) by Jari Pakarinen
 
 [The Bits and Atoms Pen](http://bitsandatomspen.com/) by Roberto Gallo
 
