@@ -11,8 +11,14 @@ With the increasing availability and ease of use of digital tools and systems, b
 
 **The Academany is a new global educational structure offering high level education all over the globe**, at connected sites offering the same infrastructure to all students. Note we do not offer online courses, but that all our classes are a combination of online live lectures and locally available tools, machines and consumables as well as local instructors and gurus.
 
-Current classes are the Fab Academany - **How to Make (almost) Anything**, and the Bio Academy - **How to Grow (almost) Anything**.
+## Different topics to learn 
 
-In September 2017 a new class will be added called **Fabricademy**, about the mix of textiles, biology and digital fabrication.
+Many class are offered in the Academany ecosystem, and each year new courses are being developed and deployed in the Academy of (almost) Anything. You can check the list of classes:
+
+Current classes are the Fab Academany - **How to Make (almost) Anything**, **Fabricademy**, about the mix of textiles, biology and digital fabrication.
+
+Other classes are being developed, like the Bio Academy - **How to Grow (almost) Anything**, **Agricademy** etc...
+
+![TFab Academy clases online](/images/fabacademy.jpg)
 
 Fab Academy is based on the MIT class How to Make (Almost) Anything as developed by Professor Neil Gershenfeld from the MIT - Bio Academy is directed by professor George Church from Harvard.
