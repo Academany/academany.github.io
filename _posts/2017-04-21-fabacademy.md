@@ -1,7 +1,7 @@
 ---
 title: Fab Academy
 layout: page
-img: fabacademy2.jpg
+img: fabacademy2.png
 ---
 
 
