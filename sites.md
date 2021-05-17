@@ -1,29 +1,155 @@
 ---
 title: Sites
 layout: page
-img: santiago.png
+img: MONTREAL.png
 ---
 
 # A global network
 
 Academany programs are offered world-wide in labs and creative spaces around the globe.
 
-Below you find a list of nodes registered for the 2017 cycle.
+Below you find a list of some of the many nodes registered for the past cycles in FABRICADEMY & FAB ACADEMY
+
+___
+
+
+## FABRICADEMY
+
+**EUROPE**
+
+*Fab Textiles, Spain*
+
+Fab Lab Barcelona / Institute for Advanced Architecture of Catalonia
+
+Contact: Anastasia Pistofidou
+
+
+*TextileLab Amsterdam, The Netherlands*
+
+FabLab Amsterdam / Waag
+
+Contact: Cecilia Raspanti
+
+
+*FabLab Kamp-Lintfort, Germany*
+
+Rhine-Waal University of Applied Sciences
+
+Contact: Adriana Cabrera
+
+
+*Fablab Digiscope, France*
+
+Paris Saclay University
+
+Contact: Romain Di Vozzo
+
+
+*FabLab Leon, Spain*
+
+Contact: Nuria Robles
+
+
+*WeMake Milano, Italy*
+
+Contact: Zoe Romano
+
+
+*Fablab Torino, Italy*
+
+Contact: Luisa Valente
+
+
+*Onl’fait, Geneva, Switzerland*
+
+Contact: Cristina Olivotto
+
+
+*FabLab Reykjavik, Iceland*
+
+Contact: Linda Wander
+
+
+*Aegean FabLab, Greece*
+
+Contact: Kathy Sinclair
+
+
+*ViNN:Lab, Technische Hochschule Wildau, Germany*
+
+Contact: Eva Ismer
+
+
+**AMERICAS**
+
+*Dassault Systèmes 3DEXPERIENCE Lab, Massachusetts, USA*
+
+Contact: Bali Abhishek
+
+*FabLab Vancouver, Canada*
+
+Contact: Jason Wang
+
+*Echofab Fab Lab, Montreal, Canada*
+
+Contact: Mathieu Laporte
+
+*FabLab Esan, Lima, Peru*
+
+Contact: Jorge Valerio
+
+*FabLab Impact, Mexico*
+
+Contact: Oscar Velazquez
+
+*FabLab Yucatan, Mexico*
+
+Contact: Oscar Díaz
+
+*Ellora Ateliê, São Paulo, Brazil*
+
+Contact: Angela Barbour
+
+*Lilo zone, São Paulo, Brazil*
+
+Contact: Lina Lopez
+
+**ASIA**
+
+*FabLab Kamakura, Japan*
+
+Contact: Jun Kawahara
+
+*Fablab O Shanghai, China*
+
+Contact: Saverio Silli
+
+*ZIOS Makerspace, Chandigarh*
+
+Contact: Mahavir Singh
+
+*FabLab Taipei, Taiwan*
+
+Contact: Ted Hung
+
+
+**MIDDLE EAST**
+
+*FabLab Irbid, Jordan*
+
+Contact: Nadine Hasan Abu Tuhaimer
+
+*TechShop Abu Dhabi, United Arab Emirates*
+
+Contact: Haya Sami
+
+___
+
+## FABACADEMY
 
 ### EUROPE
 
 **SPAIN**
-
-*Barcelona*:
-
-**Fab Lab Barcelona. Institute for Advanced Architecture of Catalonia.**
-
-Contact: Tomas Diez, info@fablabbcn.org
-
-**Green Fab Lab. Institute for Advanced Architecture of 
-Catalonia.**
-
-Contact: Jonathan Minchin, jonathan@fablabbcn.org
 
 *León*:
 
@@ -37,25 +163,20 @@ Contact: Nuria Robles, nuria@fablableon.org
 
 Contact: Covadonga Lorenzo, clorenzo@ceu.es
 
-**Fab Lab UE. Villaviciosa de Odón, Madrid**
+*Barcelona*:
 
-Contact: Fabricio Santos, fabricio.santos@uem.es
+**Fab Lab Barcelona. IAAC.**
+
+Contact: info@fablabbcn.org
 
 *Bilbao*:
 
 **Fab Lab Deusto.**
 
 Contact: Szilárd Kados, szilard.kados@deusto.es
-
  
 
 **PORTUGAL**
-
-*Fundao*
-
-**Fab Lab Aldeias do Xisto**
-
-Contact: João Milheiro, joaomilheiro@gmail.com
 
 *Almada*
 
@@ -69,19 +190,8 @@ Contact: Luis, Carvao, arq.luiscarvao@gmail.com
 
 Contact: Lucio Pentagna, info@fabfarm.org
 
- 
 
 **ITALY**
-
-*Tuscany*:
-
-**Fab Lab Toscana-Cascina**. Cascina 
-
-**Fab Lab Toscana-Firenze**. Florence
-
-**Fab Lab Toscana-Siena**. Siena
-
-Contact: Fiore Basile, fiore.basile@gmail.com
 
 *Milan*:
 
@@ -95,55 +205,12 @@ Contact: Enrico Bassi, enrico@opendotlab.it
 
 Contact:  Antonio Grillo, ntngrillo@gmail.com
 
-*Frosinone*:
-
-**Fab Lab Frosinone**. 
-
-Contact: Michela Ruggiero, michelaruggiero@gmail.com
-
-*Cagliari*:
-
-**Fab Lab Cagliari**.
-
-Contact: Francesca Mereu, francesca@fablabcagliari.cc
-
-*Olbia*:
-
-**Fab Lab Olbia**
-
-Contact: Antonio Burrai, antonio.burrai@gmail.com
-
-*Torino*
-
-**Fab Lab Torino**
-
-Contact: Stefano Paradiso, s.paradiso@torinolab.org
-
-*Venezia*
-
-**Fab Academy Veneto**
-
-DEL_Fablab, Fablab Venezia, Fablab Castelfranco, PoPlab Rovigo, 
-
-Contact: Elia De Tomasi, elia.detomasi@unive.it
-
  
 
 **FRANCE**
 
-*Paris*:
 
-**WOMA // VOLUMES**.
-
-Contact: Aldo Solazzo, aldo@noumena.io
-
-*Corsica*:
-
-**Fab Lab Ajaccio**.
-
-Contact: Nader Shaterian, nader@fablabajaccio.com
-
-**Gif-sur-Yvette**:
+**Paris - Gif-sur-Yvette**:
 
 Fab Lab Digiscope.
 
@@ -157,7 +224,6 @@ Contact: Romain Di Vozzo, romaindivozzo@hotmail.com
 **Fab Lab Amsterdam. WAAG Society,**
 
 Contact: Emma Pareschi, emma@waag.org
-
  
 
 **GERMANY**
@@ -184,15 +250,6 @@ Contact: Tobias Poppe, tobias.poppe@hs-ruhrwest.de
 
 Contact: Andreas Kopp, andreas@erfindergarden.de
 
- 
-
-**SWITZERLAND**
-
-*Ins*
-
-**At3flo Fab Lab**
-
-Contact: Matthieu Borgognon, info@at3flo.ch
 
  
 
@@ -222,7 +279,7 @@ Contact: Þórarinn B.B. Gunnarsson, doddi@nmi.is
 
 Contact: Vilhjalmur Magnusson vilhjalmurm@hornafjordur.is
 
- 
+
 
 **FINLAND**
 
@@ -230,38 +287,13 @@ Contact: Vilhjalmur Magnusson vilhjalmurm@hornafjordur.is
 
 **Fab Lab Oulu**.
 
-Contact: Jani Ylioja, jani.ylioja@ee.oulu.fi
+Contact: Jani Ylioja, jani.ylioja( at)ee.oulu.fi
 
 *Helsinki*
 
 **Aalto Fab Lab**.
 
-Contact: Juhani Tenhunen, juhani.tenhunen@aalto.fi
-
- 
-
-**DENMARK** 
-
-*Vejle*
-
-**FabLab Spinderihallerne**
-
-Contact: Ana Cabral, ancde@vejle.dk
-
-
-**NORWAY**
-
-*Oslo*
-
-**Fab Lab F (Fellesverkstedet)**
-
-Contact: Jens Dyvik, jens@fellesverkstedet.no
-
-*Moss*
-
-**Verket FabLab**
-
-Contact: Hanne Eriksen,  hanne@verketfablab.no
+Contact: Kris 
 
  
 
@@ -288,16 +320,6 @@ Contact: Omar ElSafty, omar.essafty@fablab-egypt.com
 
  
 
-**ISRAEL**
-
-*Holon*
-
-**FablabIL**
-
-Contact: Revital Nadiv, revital@fablabil.org
-
- 
-
 **UAE**
 
 *Dubai*
@@ -317,15 +339,6 @@ Contact: Ahmed Abobaker, ahmed.abobaker@ha.ae
 Contact: Salman Oraibi, oraibi.salman@gmail.com
 
  
-
-**KUWAIT**
-
-*Kuwait City*
-
-**Fab Lab Kuwait**
-
-Contact: Ahmad Al Salah,  ahmad.alsaleh@gmail.com
-
  
 
 **AFRICA**
@@ -336,7 +349,6 @@ Contact: Ahmad Al Salah,  ahmad.alsaleh@gmail.com
 
 **Gearbox**
 
- 
 
 **SOUTH AFRICA**
 
@@ -366,10 +378,6 @@ Contact: Ted Hung, ted@fablabtaipei.org
 
 Contact: David Li, taweili@gmail.com
 
-**Litchee Lab**.
-
-Contact: Lit Liao Lit@litchee.cn
-
  
 
 *Shangai*
@@ -385,15 +393,6 @@ Contact: Junfeng Ding, dingjunfeng@gmail.com
 **FabLab@SP**
 
 Contact: Steven Chew, schew@sp.edu.sg
-
-
-**SOUTH KOREA**
-
-*Seoul*:
-
-**Fab Lab Seoul.**
-
-Contact: Hwang Yousun, yersundanny@tideinsitute.org
 
  
 
@@ -413,16 +412,6 @@ Contact: Masato Takemura, muralop@gmail.com
 
 *Kitakagaya*:
 
-**Fab Lab Kitakagaya**
-
-Contact: Koichi Shiraishi, shira-ko@fablabkitakagaya.org
-
-*Fukuoka*
-
-**Fab Lab Kyushu Univ.**  Kyushu University
-
-Contact: Shinichiro Ito s.ito.334@m.kyushu-u.ac.jp
-
  
 
 **INDIA**
@@ -439,28 +428,17 @@ Contact: Yogesh Kulkarni, vapabal@gmail.com
 
 Contact: Yogesh Tamhane, yrt@somaiya.edu
 
-**Fab Lab Bombay**
-
-Contact: Henry Skupniewicz, henryskup@gmail.com
-
 *Kerala*:
 
 **Fab Lab Trivandrum**. Thiruvananthapuram
 
 **Fab Lab Kochi**. Kochi
 
-Contact: Vinod Kumar, vinod@startupmission.in
+Contact: Yadu Sharon
+
 
 **OCEANIA**
  
-**NEW ZEALAND**
-
-*Wellington*:
-
-**Fab Lab Wellington**
-
-Contact: Wendy Neale, w.neale@massey.ac.nz
-
  
 
 **AMERICA**
@@ -480,29 +458,12 @@ Roberto Delgado, rdelgado@tecsup.edu.pe
 
 **Fab Lab ESAN**
 
-Contact: Gonzalo Siu, proyectosfablab@esan.edu.pe
+Contact: Carlos Silva Osores, csilva (at) esan.edu.pe
 
-**Fab lab UNI**
-
-Contact: Henry Medina, henry@fablabuni.edu.pe
 
 **Fab Lab UTEC**
 
 Contact: Isaac Robles, irobles@utec.edu.pe
-
- 
-
-**CHILE**
-
-*Santiago*:
-
-**Fab Lab Santiago**
-
-Contact: Tomas Vivanco, tomas@fablabsantiago.org
-
-**FabLab U. de Chile**
-
-Contact: Danisa Peric, dperic@ing.uchile.cl
 
  
 
@@ -512,25 +473,9 @@ Contact: Danisa Peric, dperic@ing.uchile.cl
 
 **Insper Fab Lab**
 
-Contact: Kenzo Abiko, kenzo.abiko@gmail.com
+Contact: Daniel Kras Borges da Silveira, danielkbs (at) insper.edu.br
 
-*Sorocaba*:
 
-**Fab Lab Facens**
-
-Contact: Siron Pereira siron.pereira@facens.br
-
- 
-
-**URUGUAY**
-
-*Montevideo*:
-
-**Sinergia Tech**
-
-Contact: Carolina Vignoli, carolina.vignoli@sinergiatech.com
-
- 
 
 **MEXICO**
 
@@ -544,34 +489,15 @@ Contact: Gonzalo Perez, gperez@anahuac.mx
 
 **Fab Lab Puebla**
 
-Contact:Aristarco Cortes, aristarco.cortes@gmail.com
+Contact: Aristarco Cortes, aristarco.cortes@gmail.com
 
- 
+**ECUADOR**
 
-**COSTA RICA**
+*Quito*
 
-*Zapote*:
+**Fab Lab ZOI**
 
-**Fab Lab VERITAS**
-
-Contact: Robert Garita, rogarita@veritas.cr
-
- 
-
-**COLOMBIA**
-
-*Medellín*:
-
-**Fab Lab Medellin**
-
-Contact: Juan Gutierrez, fablab_med@unal.edu.co
-
-*Cali*:
-
-**Fab Lab Cali**
-
-Contact: Freddy Naranjo, fnaranjo@uao.edu.co
-
+Contact: Roberto Gallo, main (at) fablabzoi.org
  
 
 **USA**
@@ -582,11 +508,7 @@ Contact: Freddy Naranjo, fnaranjo@uao.edu.co
 
 Contact: Blair Evans, bevans@incite-focus.org
 
-*Providence*:
 
-**AS220 Fab Lab**
-
-Contact: Shawn Wallace, shawn@as220.org
 
 *Elyria*:
 
@@ -594,19 +516,24 @@ Contact: Shawn Wallace, shawn@as220.org
 
 Contact: Scott Zitek, rzitek@lorainccc.ed
 
-*Tulsa*:
+*Charlotte*
 
-**Fab Lab Tulsa**
+**Fab Lab Charlotte Latin**
 
-Contact: Nathan Pritchett, nathan@fablabtulsa.com
+Contact: Tom Dubick, tom.dubick (at) charlottelatin.org
 
-*Boston*
+*Boston AREA - Waltham*
 
-**Fab@CIC**
+**Dassault Systemes Lab**
 
-Contact: fab@cic.us
+Contact: Luciano Bertoldi, luciano (at) fabfoundation.org
 
- 
+*Norton*
+
+**Fab Lab Wheaton**
+
+Contact: Madison Dunaway, dunaway_madison (at) wheatoncollege.edu
+
 
 **CANADA**
 
