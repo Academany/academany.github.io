@@ -1,7 +1,7 @@
 ---
 title: Fabricademy
 layout: page
-img: fabricademy.jpg
+img: fabricademy.png
 coming_soon: false
 ---
 
