@@ -1,7 +1,7 @@
 ---
 title: Bio Academy
 layout: page
-img: bioacademy.jpg
+img: bioacademy1.png
 ---
 
 ## Applications and implications of synthetic biology
