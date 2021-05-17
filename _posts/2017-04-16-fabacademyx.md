@@ -1,7 +1,7 @@
 ---
 title: Fab Academy* (star)
 layout: page
-img: fabx.jpg
+img: fabacademy-star.png
 ---
 A recollection of different versions of Fab Academy.
 
