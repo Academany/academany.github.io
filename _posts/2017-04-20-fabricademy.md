@@ -43,6 +43,6 @@ ___
 
 ## Coordination 
 
-Anastasia Pistofou & Cecilia Raspanti: fabricademy (at) fabfoundation.org
+Anastasia Pistofidou & Cecilia Raspanti: fabricademy (at) textile-academy.org
 
 For more information and to sign up, please visit the [Fabricademy website](https://textile-academy.org/)
