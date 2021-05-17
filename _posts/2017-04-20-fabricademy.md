@@ -9,7 +9,7 @@ The intersection between textiles, digital fabrication and biology
 
 ___
 
-## Fabricademy: a new Textile Academy
+## Fabricademy, a new Textile Academy
 
 **A transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry and the upcoming wearable market.**
 
@@ -43,6 +43,6 @@ ___
 
 ## Coordination 
 
-Rebecca Ottinger: fabricademy (at) fabfoundation.org
+Anastasia Pistofou & Cecilia Raspanti: fabricademy (at) fabfoundation.org
 
 For more information and to sign up, please visit the [Fabricademy website](https://textile-academy.org/)
