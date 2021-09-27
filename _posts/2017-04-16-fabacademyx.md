@@ -5,6 +5,42 @@ img: fabacademy-star.png
 ---
 A recollection of different versions of Fab Academy.
 
+
+
+## Fab Academy *
+
+**Distributed Education of digital fabrication adapted to local cohorts**
+
+Based on the HTMAA, this program is the local adaptation for a bigger audience, taught in local Language for a more extended period of time, with the same Fab Academy standards of Evaluation.
+
+
+### Pilot : Fab Academy *ᴮᴴ
+
+[Bahrain Pilot website](http://fablabbh.fabcloud.io/asterisk/info/)
+
+**Instructors & Staff**
+
+Duaa Alaali ( Fab Academy 2018, Local Instructor 2019-present, Regional Instructor and Regional Review lead, FabAcademy Assessment Document Team, 2021 BootCamp contributor)
+
+Abdulla Fadi ( Fab Academy 2019, 2021 Bootcamp contributor)
+
+Salman Alaraibi ( Fab Academy 2017,  Local & Regional Instructor and Global Reviewer)
+
+Lab and Fabrication Assistance: AbdulGafor Ismail ( Fab Academy 2020)
+
+Tamkeen ( National labour fund) Liaising: Ali Rajaie
+
+
+**Course Length:** 10 weeks 
+
+**Tuition Fee:** Adapted to local costs + small portion of central costs for accreditation
+
+**Language:** Classes in local Language, Documentation in English (in order to get Global Certification)
+
+**Assessment and Review** Based on Fab Academy Assessment Document. [HERE](https://gitlab.fabcloud.org/duaa.alaali/templete/-/issues)
+
+15 Graduates!
+
 ___
 
 ## Fab Academy X
