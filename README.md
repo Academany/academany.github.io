@@ -1,5 +1,6 @@
-# http://academany.org/
+# Academany website
 
+> https://academany.org/
 
 Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
 
